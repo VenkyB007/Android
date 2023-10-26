@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kickscore</string>
+    <string name="time_date">Time - Date</string>
+    <string name="games_list">Games List</string>
+</resources>
