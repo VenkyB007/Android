@@ -1,3 +1,5 @@
 package com.application.kickscore
 
-data class TimeStamp()
+data class TimeStamp(
+    var timeStamp: Long,
+)
